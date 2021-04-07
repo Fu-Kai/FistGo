@@ -65,7 +65,7 @@ emit Register(id,passwd,now);
 return true;
 ```
 
-完整code：
+完整de code：
 
 ![image-20210407174248522](/Users/apple/Library/Application Support/typora-user-images/image-20210407174248522.png)
 
