@@ -2,7 +2,7 @@ created by KaiFu   			2021 4.7
 
 #### 1.首先是第一个小bug
 
-![image-20210407172333103](/Users/apple/Library/Application Support/typora-user-images/image-20210407172333103.png)
+![image-20210407184946441](https://raw.githubusercontent.com/Fu-Kai/hello-world/main/img/image-20210407184946441.png)
 
 字符串匹配是否相等时不能直接单纯的 == 判断，应该判断他们的哈希值是否相等
 
@@ -36,9 +36,9 @@ emit Register(id,passwd,now);
 return true;
 ```
 
-完整code：![image-20210407173819867](/Users/apple/Library/Application Support/typora-user-images/image-20210407173819867.png)
+完整code：
 
-
+![image-20210407185001177](https://raw.githubusercontent.com/Fu-Kai/hello-world/main/img/image-20210407185001177.png)
 
 **第二个是修改密码`setPassword()`功能：**
 
@@ -67,5 +67,4 @@ return true;
 
 完整de code：
 
-![image-20210407174248522](/Users/apple/Library/Application Support/typora-user-images/image-20210407174248522.png)
-
+![image-20210407185014663](https://raw.githubusercontent.com/Fu-Kai/hello-world/main/img/image-20210407185014663.png)
