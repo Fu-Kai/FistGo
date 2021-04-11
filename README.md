@@ -1,2 +1,2 @@
 # FistGo
-first go codes
+first go code
